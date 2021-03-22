@@ -14,6 +14,7 @@ namespace _01_Interview
             Hashtable HT = new Hashtable();
 
             //new line for branch
+            //line 2
 
             //anonymours types
             var anonymousData = new
