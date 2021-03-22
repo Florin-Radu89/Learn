@@ -15,6 +15,8 @@ namespace _01_Interview
 
             //new line for branch
             //line 2
+            //dev-1 branch
+            //dev-1 branch - other commit in the same branch
 
             //anonymours types
             var anonymousData = new
